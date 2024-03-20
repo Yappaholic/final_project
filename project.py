@@ -1,4 +1,4 @@
-from lib import answers, method, questionnaire
+from lib import questionnaire
 import time
 import sys
 global_list = []
